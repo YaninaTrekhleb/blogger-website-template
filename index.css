@@ -91,7 +91,7 @@ nav.left-menu {
     text-decoration: none;
 }
 
-.article-image-round p {
+.article-image-round h3 {
     text-align: center;
     color: #383737;
     font-weight: bold;
@@ -224,4 +224,8 @@ footer p  {
 hr {
     border-color: #c7c4c4;
     opacity: 0.2;
+}
+
+footer .copyright-part {
+    font-size: 12px;
 }
