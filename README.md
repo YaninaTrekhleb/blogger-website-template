@@ -1,1 +1,2 @@
-# blogger-website-template
+Blog Site Template.
+Used pure HTML and CSS.
